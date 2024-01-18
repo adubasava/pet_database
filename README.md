@@ -1,8 +1,7 @@
-# Design Document
-
-By Anzhalika Dubasava
-
-Video overview: https://youtu.be/-o069xSmR08
+# DATABASE FAMILY PETS
+#### Video Demo:  [https://youtu.be/FH3PCliw7u8](https://youtu.be/-o069xSmR08)
+#### Description:
+Final project for CS50’s Introduction to Databases with SQL.
 
 ## Scope
 
@@ -122,3 +121,8 @@ Also, I created 3 views for particular frequent needs:
 ## Limitations
 
 The current schema assumes only one user (family). In future the database could be extended so that many users (families) could use it and share their ratings or other experience.
+
+## Contact
+Anzhalika Dubasava, anzhalikad@gmail.com
+
+Linkedin: https://www.linkedin.com/in/adubasava/
